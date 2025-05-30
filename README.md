@@ -1,6 +1,6 @@
 # 📈 FUTURE_ML_02
 
-##Stock Price Prediction Using LSTM
+## Stock Price Prediction Using LSTM
 
 A machine learning project that predicts stock prices using historical data and a Long Short-Term Memory (LSTM) neural network.
 
@@ -39,5 +39,5 @@ A machine learning project that predicts stock prices using historical data and 
 - Below is a sample visualization that shows how well the model forecasts stock prices:
 
 
-![Forecast](2.png)
+![Forecast](2.jpg)
 ![Forecast](3.png)
